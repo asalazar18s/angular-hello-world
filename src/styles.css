@@ -1,1 +1,82 @@
 /* You can add global styles to this file, and also import other style files */
+.operations {
+    width: 75px;
+    height: 16px;
+    font-family: FranklinGothicURW-Med;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--black-65);
+  }
+    .rectangle {
+    width: 1440px;
+    height: 80px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    align-items: center;
+    }
+    .parkiq_logo_img {
+    width: 155px;
+    height: 50px;
+    object-fit: contain;
+    }
+    .Welcome-Laurie {
+    width: 115px;
+    height: 16px;
+    font-family: FranklinGothicURW-Med;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--black-65);
+    }
+    .dashboard {
+    width: 76px;
+    height: 16px;
+    font-family: FranklinGothicURW-Dem;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--black);
+    }
+    .sites {
+    width: 34px;
+    height: 16px;
+    font-family: FranklinGothicURW-Med;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--black-65);
+    }
+    .maintenance {
+        width: 90px;
+        height: 16px;
+        font-family: FranklinGothicURW-Med;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: var(--black-65);
+      }
+      .content {
+        display: flex;
+        width: 1440px;
+        height: 3050px;
+        flex-direction: column;
+        align-items: center;
+        color: #3f1212;
+        background-color: #ebebeb;
+      }
